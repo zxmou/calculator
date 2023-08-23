@@ -75,7 +75,7 @@ button.decimal {
 #eguale,
 #efface-tout {
     grid-column: span 2;
-    width: 100%;
+    width: 100;
 }
 
 #eguale{
